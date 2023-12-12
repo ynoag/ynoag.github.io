@@ -1,18 +1,20 @@
 <img src="https://github.com/ynoag/Noa/blob/main/portada.png">
 
-# **Josué Ríos Aguilar**
+# **MsC. Yuandry Noa Galvez**
+
+Ingeniero en Ciencias Informáticas con amplia experiencia relacionada con los puestos de trabajo como responsable de Seguridad informatica, auditor informatico a nivel ministerial, administrador de red, helpdesk, Manager de IT y gerente de empresa de informática. Como profesor experiencias a nivel medio y superior impartiendo clases en universidades y formación profecional.
+
 ## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
-de Office 365. Como también, un certificado MOS Excel.
-Mi objetivo se centra en trabajar en el área de redes y también en el de la
-programación
+Continuar aprendiendo y seguir mis proyectos y planes como informático.
 
 ## Formación
-### 2020 ESO
-INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
-• Con un promedio de un 6 aprobé la ESO.
-### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
- iFP Centro de Formación Profesional, Barcelona
+### 2000-2003 Bachiller
+• Terminando con exelentes calificaciones y optando por mi primera opcion de carrera: Ingeniería Informática
+### 2003-2008 - Ingeniería (Informática y Bioinformática) 
+• Culminada en la Universidad de Ciencias Informaticas(UCI) en la Habana - Cuba. Exelente experiencias prácticas asociadas a proyectos reales. Presentando como tesis de grado un simulador de sistemas biologicos.
+### 2010-2013 - Maestría (Informática Aplicada a la Ciencia) 
+• Culminada en la Universidad Máximo Gómez en Ciego de Ávila - Cuba. Culmido con la Creación de un sistema de predicción de plagas en cultivos a traves de modelos matematicos.
+
 
 ### Complementario
 2021 Competencias Digitales Excel (MOS)
@@ -42,5 +44,5 @@ bien el tiempo.
 | Idioma | Nivel |
 |:---:|   :---:|
 |Castellano | Nivel Alto|
-|Catalán| Nivel Alto|
-|Inglés| Nivel Medio|
+|Inglés| Nivel Alto|
+|Catalán| Nivel Básico|
