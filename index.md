@@ -1,4 +1,4 @@
-<img src="https://github.com/ynoag/Noa/blob/main/recorte%20logo2.jpg">
+<img src="https://github.com/ynoag/Noa/blob/main/portada.jpg">
 
 # **Josué Ríos Aguilar**
 ## Objetivo Profesional
