@@ -1,4 +1,4 @@
-<img src="https://ynoag.github.io/blob/main/portada.png">
+<img src="https://ynoag.github.io/portada.png">
 
 # **MsC. Yuandry Noa Galvez**
 
