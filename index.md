@@ -8,6 +8,9 @@ Ingeniero en Ciencias Informáticas con amplia experiencia relacionada con los p
 ## Objetivo Profesional
 Continuar aprendiendo y seguir mis proyectos y planes como informático.
 
+## WIKI NOA
+Resumen de estudios y respuestas a preguntas interesantes.
+
 ## Formación
 ### 2000-2003 Bachiller
 • Terminando con exelentes calificaciones y optando por mi primera opcion de carrera: Ingeniería Informática
