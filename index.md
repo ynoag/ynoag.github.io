@@ -10,7 +10,7 @@ Continuar aprendiendo y seguir mis proyectos y planes como informático.
 
 ## WIKI NOA
 Resumen de estudios y respuestas a preguntas interesantes. 
-<a href="https://github.com/ynoag/ynoag.github.io.wiki.git">¡WIKI NOA!</a>
+<a href="https://github.com/ynoag/ynoag.github.io/wiki/WIKI_NOA">¡WIKI NOA!</a>
 
 
 ## Formación
