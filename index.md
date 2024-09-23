@@ -1,5 +1,5 @@
-<img src="https://github.com/ynoag/ynoag.github.io/blob/main/portada.png?raw=true">
-<img src="![](https://github.com/ynoag/ynoag.github.io/blob/main/WIKINOA.png?raw=true)">
+
+<img src="![](https://github.com/ynoag/ynoag.github.io/blob/main/portada.png?raw=true)">
 
 # **MsC. Yuandry Noa Galvez**
 
