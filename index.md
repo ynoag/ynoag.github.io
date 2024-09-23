@@ -9,7 +9,7 @@ Ingeniero en Ciencias Informáticas con amplia experiencia relacionada con los p
 Continuar aprendiendo y seguir mis proyectos y planes como informático.
 
 ## WIKI NOA
-Resumen de estudios y respuestas a preguntas interesantes.
+Resumen de estudios y respuestas a preguntas interesantes. https://github.com/ynoag/ynoag.github.io.wiki.git
 
 ## Formación
 ### 2000-2003 Bachiller
